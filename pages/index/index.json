@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "小仙女商店",
+  "usingComponents": {
+    "i-notice-bar": "/pages/dist_iview/notice-bar/index",
+    "i-grid": "/pages/dist_iview/grid/index",
+    "i-grid-item": "/pages/dist_iview/grid-item/index",
+    "i-grid-icon": "/pages/dist_iview/grid-icon/index",
+    "i-grid-label": "/pages/dist_iview/grid-label/index"
+  }
+}
